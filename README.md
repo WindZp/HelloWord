@@ -1,2 +1,2 @@
 # HelloWord
-Just another repositiory
+this is a text
